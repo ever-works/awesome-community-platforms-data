@@ -1,0 +1,12 @@
+name: "phpBB"
+description: "phpBB is a free, open-source bulletin board system for traditional internet forums. It is self-hosted, written in PHP, and supported by a large extension ecosystem."
+source_url: "https://www.phpbb.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "forum"
+  - "php"
+icon_url: "https://icons.duckduckgo.com/ip3/www.phpbb.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.phpbb.com/>\n- Repository: <https://github.com/phpbb/phpbb>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 09:58"

@@ -1,0 +1,12 @@
+name: "BuddyPress"
+description: "BuddyPress is an open-source social networking plugin for WordPress. It enables self-hosted community sites with user profiles, activity streams, and groups."
+source_url: "https://buddypress.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "wordpress"
+  - "social-networking"
+icon_url: "https://icons.duckduckgo.com/ip3/buddypress.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://buddypress.org/>\n- Repository: <https://github.com/buddypress/BuddyPress>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 09:58"

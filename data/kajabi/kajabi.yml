@@ -1,0 +1,12 @@
+name: "Kajabi"
+description: "Kajabi is an all-in-one platform for online courses, digital products, and community memberships. It is cloud-based with paid plans and built-in marketing tools."
+source_url: "https://kajabi.com/"
+category: "Course + Community"
+tags:
+  - "paid"
+  - "course"
+  - "community"
+  - "marketing"
+icon_url: "https://icons.duckduckgo.com/ip3/kajabi.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://kajabi.com/>\n"
+updated_at: "2026-11-21 09:58"

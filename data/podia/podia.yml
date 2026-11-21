@@ -1,0 +1,12 @@
+name: "Podia"
+description: "Podia is a creator platform for selling online courses, digital downloads, and memberships. It includes community features and is offered as a paid cloud service."
+source_url: "https://www.podia.com/"
+category: "Course + Community"
+tags:
+  - "paid"
+  - "course"
+  - "community"
+  - "digital-downloads"
+icon_url: "https://icons.duckduckgo.com/ip3/www.podia.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.podia.com/>\n"
+updated_at: "2026-11-21 09:58"

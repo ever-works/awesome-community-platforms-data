@@ -1,0 +1,12 @@
+- id: community-platforms
+  name: "Community Platforms"
+- id: forum-software
+  name: "Forum Software"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: course-community
+  name: "Course + Community"
+- id: discord-and-slack-community-tools
+  name: "Discord & Slack Community Tools"
+- id: community-analytics
+  name: "Community Analytics"

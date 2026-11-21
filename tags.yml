@@ -1,0 +1,62 @@
+- id: paid
+  name: "Paid"
+- id: api
+  name: "API"
+- id: community
+  name: "Community"
+- id: creator-economy
+  name: "Creator Economy"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: forum
+  name: "Forum"
+- id: course
+  name: "Course"
+- id: mobile-apps
+  name: "Mobile Apps"
+- id: customer-community
+  name: "Customer Community"
+- id: saas
+  name: "SaaS"
+- id: enterprise
+  name: "Enterprise"
+- id: social-media
+  name: "Social Media"
+- id: customer-support
+  name: "Customer Support"
+- id: php
+  name: "PHP"
+- id: node-js
+  name: "Node.js"
+- id: chat
+  name: "Chat"
+- id: events
+  name: "Events"
+- id: analytics
+  name: "Analytics"
+- id: ai-powered
+  name: "AI-Powered"
+- id: integrations
+  name: "Integrations"
+- id: branded-community
+  name: "Branded Community"
+- id: freemium
+  name: "Freemium"
+- id: voice
+  name: "Voice"
+- id: gaming
+  name: "Gaming"
+- id: marketing
+  name: "Marketing"
+- id: digital-downloads
+  name: "Digital Downloads"
+- id: association
+  name: "Association"
+- id: b2b
+  name: "B2B"
+- id: wordpress
+  name: "WordPress"
+- id: social-networking
+  name: "Social Networking"

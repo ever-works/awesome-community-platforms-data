@@ -1,0 +1,12 @@
+name: "Discourse"
+description: "Discourse is an open-source discussion platform for building modern forums and community sites. It can be self-hosted or used via Discourse's paid managed hosting."
+source_url: "https://discourse.org/"
+category: "Forum Software"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "forum"
+icon_url: "https://icons.duckduckgo.com/ip3/discourse.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://discourse.org/>\n- Repository: <https://github.com/discourse/discourse>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 09:58"

@@ -1,0 +1,12 @@
+name: "Discord"
+description: "Discord is a chat and voice platform originally for gamers, now used by many online communities. It offers free servers with optional paid Nitro subscriptions and bots."
+source_url: "https://discord.com/"
+category: "Discord & Slack Community Tools"
+tags:
+  - "freemium"
+  - "chat"
+  - "voice"
+  - "gaming"
+icon_url: "https://icons.duckduckgo.com/ip3/discord.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://discord.com/>\n"
+updated_at: "2026-11-21 09:58"

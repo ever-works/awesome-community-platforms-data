@@ -1,0 +1,12 @@
+name: "Mattermost"
+description: "Mattermost is an open-source, self-hosted messaging platform for team and community collaboration. It is an alternative to Slack with API access and compliance features."
+source_url: "https://mattermost.org/"
+category: "Discord & Slack Community Tools"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "chat"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/mattermost.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://mattermost.org/>\n- Repository: <https://github.com/mattermost/mattermost-server>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 09:58"

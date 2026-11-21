@@ -1,0 +1,12 @@
+name: "NodeBB"
+description: "NodeBB is an open-source forum platform built on Node.js for modern community discussions. It supports real-time chat, themes, and plugins, and can be self-hosted or managed."
+source_url: "https://nodebb.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "forum"
+  - "node-js"
+icon_url: "https://icons.duckduckgo.com/ip3/nodebb.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://nodebb.org/>\n- Repository: <https://github.com/NodeBB/NodeBB>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 09:58"

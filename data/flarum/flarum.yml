@@ -1,0 +1,12 @@
+name: "Flarum"
+description: "Flarum is a lightweight, open-source forum software for simple community discussions. It is PHP-based, self-hosted, and designed for speed and extensibility."
+source_url: "https://flarum.org/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "forum"
+  - "php"
+icon_url: "https://icons.duckduckgo.com/ip3/flarum.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://flarum.org/>\n- Repository: <https://github.com/flarum/flarum>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 09:58"

@@ -1,0 +1,12 @@
+name: "Slack"
+description: "Slack is a business messaging platform that also serves as a community hub for teams and interest groups. It has a free tier and paid plans with advanced features."
+source_url: "https://slack.com/"
+category: "Discord & Slack Community Tools"
+tags:
+  - "freemium"
+  - "chat"
+  - "enterprise"
+  - "integrations"
+icon_url: "https://icons.duckduckgo.com/ip3/slack.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://slack.com/>\n"
+updated_at: "2026-11-21 09:58"
