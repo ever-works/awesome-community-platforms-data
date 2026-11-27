@@ -1,0 +1,58 @@
+name: Akkoma
+description: Federated microblogging server with Mastodon, GNU social, and
+  ActivityPub compatibility. It is an open-source, self-hosted social networking
+  platform written in Elixir, licensed under AGPL-3.0.
+source_url: https://akkoma.dev
+category: Community Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+  - ActivityPub
+  - Federated
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Akkoma is a federated microblogging server compatible with Mastodon, GNU
+  social, and ActivityPub. It allows users to run their own social networking
+  instance and interact with the wider fediverse.
+
+
+  ## Features
+
+
+  - ActivityPub federation
+
+  - Mastodon API compatibility
+
+  - GNU social compatibility
+
+  - Self-hosted deployment
+
+  - Elixir-based backend
+
+  - Docker support
+
+
+  ## Pricing
+
+
+  Free and open-source under the AGPL-3.0 license.
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker or from source.
+
+
+  ## Repository
+
+
+  https://git.akkoma.dev/AkkomaGang/akkoma
+brand: Akkoma
+brand_logo_url: https://akkoma.dev/static/logo.svg
+images:
+  - https://akkoma.dev/static/preview.png
+updated_at: 2026-11-27 00:32

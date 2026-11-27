@@ -1,0 +1,48 @@
+name: WoltLab Suite Forum
+description: WoltLab Suite Forum is an Internet forum software package developed
+  by WoltLab GmbH. It is written in PHP and supports MariaDB and MySQL
+  databases. The forum component is proprietary while the core framework is
+  released under LGPL 2.1.
+source_url: https://woltlab.com/
+category: Forum Software
+tags:
+  - paid
+  - self-hosted
+  - php
+featured: false
+markdown: >-
+  ## Overview
+
+
+  WoltLab Suite Forum is an Internet forum software package written in PHP, part
+  of the WoltLab Suite platform for building online communities.
+
+
+  ## Technical Details
+
+
+  - Programming language: PHP
+
+  - Supported databases: MariaDB, MySQL
+
+  - License: Proprietary (Forum); LGPL 2.1 (Core)
+
+  - Creator: WoltLab GmbH
+
+  - Latest release: 6.1.7 (2025-04-15)
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Pricing
+
+
+  Paid commercial license for the forum component.
+brand: WoltLab GmbH
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-27 00:32

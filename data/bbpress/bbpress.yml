@@ -1,0 +1,49 @@
+name: bbPress
+description: bbPress is an open-source forum software package built as a plugin
+  for WordPress, developed by the WordPress Foundation. It is written in PHP and
+  supports MariaDB and MySQL databases, released under the GNU General Public
+  License (GPL).
+source_url: https://bbpress.org/
+category: Forum Software
+tags:
+  - open-source
+  - self-hosted
+  - php
+  - wordpress
+featured: false
+markdown: >-
+  ## Overview
+
+
+  bbPress is an open-source forum software package designed as a plugin for
+  WordPress, allowing users to add discussion forums to a WordPress site.
+
+
+  ## Technical Details
+
+
+  - Programming language: PHP
+
+  - Supported databases: MariaDB, MySQL
+
+  - License: GNU General Public License (GPL)
+
+  - Creator: WordPress Foundation
+
+  - Latest release: 7.1.2 (2026-09-22)
+
+
+  ## Deployment
+
+
+  Self-hosted; installed as a WordPress plugin on PHP-capable web servers.
+
+
+  ## Pricing
+
+
+  Free and open-source under the GPL license.
+brand: WordPress Foundation
+brand_logo_url: https://wordpress.org/about/images/wordpress-open-graph.svg
+images: []
+updated_at: 2026-11-27 00:32

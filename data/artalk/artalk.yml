@@ -1,0 +1,55 @@
+name: Artalk
+description: Comment system built in Golang, providing a lightweight and highly
+  customizable solution for adding comments to your website. It is an
+  open-source, self-hosted commenting platform licensed under MIT.
+source_url: https://artalk.js.org
+category: Forum Software
+tags:
+  - Open Source
+  - Self-Hosted
+  - Comments
+  - Go
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Artalk is a comment system built in Golang that provides a lightweight and
+  highly customizable solution for adding comments to your website.
+
+
+  ## Features
+
+
+  - Lightweight commenting system
+
+  - Highly customizable
+
+  - Self-hosted deployment
+
+  - Go-based backend
+
+  - Docker support
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker or from source.
+
+
+  ## Repository
+
+
+  https://github.com/ArtalkJs/Artalk
+brand: Artalk
+brand_logo_url: https://artalk.js.org/logo.svg
+images:
+  - https://artalk.js.org/preview.png
+updated_at: 2026-11-27 00:32

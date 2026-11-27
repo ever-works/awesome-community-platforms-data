@@ -1,0 +1,57 @@
+name: PixelFed
+description: Ethical photo sharing platform, powered by ActivityPub federation,
+  serving as an alternative to Instagram. It is an open-source, self-hosted
+  platform written in PHP, licensed under AGPL-3.0.
+source_url: https://pixelfed.org
+category: Community Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+  - Photo sharing
+  - Instagram alternative
+  - ActivityPub
+  - PHP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PixelFed is an ethical photo sharing platform powered by ActivityPub
+  federation, serving as an alternative to Instagram.
+
+
+  ## Features
+
+
+  - Photo sharing platform
+
+  - ActivityPub federation
+
+  - Instagram alternative
+
+  - Self-hosted deployment
+
+  - PHP-based backend
+
+
+  ## Pricing
+
+
+  Free and open-source under the AGPL-3.0 license.
+
+
+  ## Deployment
+
+
+  Self-hosted from source.
+
+
+  ## Repository
+
+
+  https://github.com/pixelfed/pixelfed
+brand: PixelFed
+brand_logo_url: https://pixelfed.org/logo.svg
+images:
+  - https://pixelfed.org/preview.png
+updated_at: 2026-11-27 00:32

@@ -1,0 +1,55 @@
+name: HumHub
+description: Flexible kit for private social networks that allows organizations
+  to build their own social intranet or community platform. It is an
+  open-source, self-hosted platform written in PHP, licensed under AGPL-3.0.
+source_url: https://www.humhub.org
+category: Community Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+  - Private Social Network
+  - PHP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  HumHub is a flexible kit for private social networks, enabling organizations
+  to build social intranets and community platforms.
+
+
+  ## Features
+
+
+  - Private social network builder
+
+  - Social intranet platform
+
+  - Community platform
+
+  - Self-hosted deployment
+
+  - PHP-based backend
+
+
+  ## Pricing
+
+
+  Free and open-source under the AGPL-3.0 license.
+
+
+  ## Deployment
+
+
+  Self-hosted from source.
+
+
+  ## Repository
+
+
+  https://github.com/humhub/humhub
+brand: HumHub
+brand_logo_url: https://www.humhub.org/logo.svg
+images:
+  - https://www.humhub.org/preview.png
+updated_at: 2026-11-27 00:32

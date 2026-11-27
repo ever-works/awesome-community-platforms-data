@@ -1,0 +1,53 @@
+name: Enigma 1/2 BBS
+description: Modern, multi-platform BBS engine with unlimited "callers" and
+  legacy DOS door game support. It is an open-source, self-hosted BBS platform
+  licensed under BSD-2-Clause.
+source_url: https://enigmabbs.com
+category: Forum Software
+tags:
+  - Open Source
+  - Self-Hosted
+  - BBS
+  - DOS
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Enigma 1/2 BBS is a modern, multi-platform BBS engine supporting unlimited
+  callers and legacy DOS door games.
+
+
+  ## Features
+
+
+  - Multi-platform BBS engine
+
+  - Unlimited callers
+
+  - Legacy DOS door game support
+
+  - Self-hosted deployment
+
+
+  ## Pricing
+
+
+  Free and open-source under the BSD-2-Clause license.
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker or from source.
+
+
+  ## Repository
+
+
+  https://github.com/NuSkooler/enigma-bbs
+brand: Enigma BBS
+brand_logo_url: https://enigmabbs.com/logo.svg
+images:
+  - https://enigmabbs.com/preview.png
+updated_at: 2026-11-27 00:32

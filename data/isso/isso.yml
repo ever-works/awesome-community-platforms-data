@@ -1,0 +1,56 @@
+name: Isso
+description: Lightweight commenting server written in Python and Javascript. It
+  aims to be a drop-in replacement for Disqus. It is an open-source, self-hosted
+  commenting platform licensed under MIT.
+source_url: https://isso.org
+category: Forum Software
+tags:
+  - Open Source
+  - Self-Hosted
+  - Comments
+  - Disqus alternative
+  - Python
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Isso is a lightweight commenting server written in Python and Javascript,
+  designed as a drop-in replacement for Disqus.
+
+
+  ## Features
+
+
+  - Lightweight commenting server
+
+  - Disqus replacement
+
+  - Self-hosted deployment
+
+  - Python-based backend
+
+  - Docker support
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+
+
+  ## Deployment
+
+
+  Self-hosted via Docker or from source.
+
+
+  ## Repository
+
+
+  https://github.com/isso/isso
+brand: Isso
+brand_logo_url: https://isso.org/logo.svg
+images:
+  - https://isso.org/preview.png
+updated_at: 2026-11-27 00:32

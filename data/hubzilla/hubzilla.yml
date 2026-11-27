@@ -1,0 +1,60 @@
+name: Hubzilla
+description: Decentralized identity, privacy, publishing, sharing, cloud
+  storage, and communications/social platform. It is an open-source, self-hosted
+  platform written in PHP, licensed under MIT.
+source_url: https://hubzilla.org
+category: Community Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+  - Decentralized
+  - Federated
+  - PHP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Hubzilla is a decentralized platform for identity, privacy, publishing,
+  sharing, cloud storage, and communications/social networking.
+
+
+  ## Features
+
+
+  - Decentralized identity
+
+  - Privacy controls
+
+  - Publishing tools
+
+  - Cloud storage
+
+  - Communications and social networking
+
+  - Self-hosted deployment
+
+  - PHP-based backend
+
+
+  ## Pricing
+
+
+  Free and open-source under the MIT license.
+
+
+  ## Deployment
+
+
+  Self-hosted from source.
+
+
+  ## Repository
+
+
+  https://github.com/hubzilla/core
+brand: Hubzilla
+brand_logo_url: https://hubzilla.org/logo.svg
+images:
+  - https://hubzilla.org/preview.png
+updated_at: 2026-11-27 00:32

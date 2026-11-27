@@ -1,0 +1,59 @@
+name: Pleroma
+description: Federated microblogging server, Mastodon, GNU social, & ActivityPub
+  compatible. It is an open-source, self-hosted platform written in Elixir,
+  licensed under AGPL-3.0.
+source_url: https://pleroma.social
+category: Community Platforms
+tags:
+  - Open Source
+  - Self-Hosted
+  - ActivityPub
+  - Federated
+  - Microblogging
+  - Elixir
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Pleroma is a federated microblogging server compatible with Mastodon, GNU
+  social, and ActivityPub.
+
+
+  ## Features
+
+
+  - Federated microblogging
+
+  - ActivityPub protocol
+
+  - Mastodon compatibility
+
+  - GNU social compatibility
+
+  - Self-hosted deployment
+
+  - Elixir-based backend
+
+
+  ## Pricing
+
+
+  Free and open-source under the AGPL-3.0 license.
+
+
+  ## Deployment
+
+
+  Self-hosted from source.
+
+
+  ## Repository
+
+
+  https://git.pleroma.social/pleroma/pleroma
+brand: Pleroma
+brand_logo_url: https://pleroma.social/logo.svg
+images:
+  - https://pleroma.social/preview.png
+updated_at: 2026-11-27 00:32

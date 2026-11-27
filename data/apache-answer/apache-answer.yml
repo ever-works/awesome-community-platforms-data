@@ -1,0 +1,41 @@
+name: Apache Answer
+description: Apache Answer is an open-source community Q&A platform and forum
+  software developed by the Apache Software Foundation. It is released under the
+  Apache-2.0 license.
+source_url: https://answer.apache.org/
+category: Forum Software
+tags:
+  - open-source
+  - self-hosted
+  - apache-2.0
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Apache Answer is an open-source community Q&A platform and forum software
+  developed under the Apache Software Foundation.
+
+
+  ## Technical Details
+
+
+  - License: Apache-2.0
+
+  - Creator: Apache Software Foundation
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## Pricing
+
+
+  Free and open-source under the Apache-2.0 license.
+brand: Apache Software Foundation
+brand_logo_url: https://www.apache.org/images/asf-logo.svg
+images: []
+updated_at: 2026-11-27 00:32
