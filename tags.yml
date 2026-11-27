@@ -1,62 +1,138 @@
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: api
-  name: "API"
+  name: API
 - id: community
-  name: "Community"
+  name: Community
 - id: creator-economy
-  name: "Creator Economy"
+  name: Creator Economy
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: forum
-  name: "Forum"
+  name: Forum
 - id: course
-  name: "Course"
+  name: Course
 - id: mobile-apps
-  name: "Mobile Apps"
+  name: Mobile Apps
 - id: customer-community
-  name: "Customer Community"
+  name: Customer Community
 - id: saas
-  name: "SaaS"
+  name: SaaS
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: social-media
-  name: "Social Media"
+  name: Social Media
 - id: customer-support
-  name: "Customer Support"
+  name: Customer Support
 - id: php
-  name: "PHP"
+  name: Php
 - id: node-js
-  name: "Node.js"
+  name: Node.js
 - id: chat
-  name: "Chat"
+  name: Chat
 - id: events
-  name: "Events"
+  name: Events
 - id: analytics
-  name: "Analytics"
+  name: Analytics
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI-Powered
 - id: integrations
-  name: "Integrations"
+  name: Integrations
 - id: branded-community
-  name: "Branded Community"
+  name: Branded Community
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: voice
-  name: "Voice"
+  name: Voice
 - id: gaming
-  name: "Gaming"
+  name: Gaming
 - id: marketing
-  name: "Marketing"
+  name: Marketing
 - id: digital-downloads
-  name: "Digital Downloads"
+  name: Digital Downloads
 - id: association
-  name: "Association"
+  name: Association
 - id: b2b
-  name: "B2B"
+  name: B2B
 - id: wordpress
-  name: "WordPress"
+  name: Wordpress
 - id: social-networking
-  name: "Social Networking"
+  name: Social Networking
+- id: activitypub
+  name: ActivityPub
+- id: federated
+  name: Federated
+- id: qa
+  name: Q&A
+- id: go
+  name: Go
+- id: apache-20
+  name: Apache 2.0
+- id: comments
+  name: Comments
+- id: assembly
+  name: Assembly
+- id: sqlite
+  name: SQLite
+- id: distributed
+  name: Distributed
+- id: ruby
+  name: Ruby
+- id: bbs
+  name: BBS
+- id: dos
+  name: DOS
+- id: local-communities
+  name: Local Communities
+- id: docker
+  name: Docker
+- id: fediverse
+  name: Fediverse
+- id: bridge
+  name: Bridge
+- id: rust
+  name: Rust
+- id: decentralized
+  name: Decentralized
+- id: private-social-network
+  name: Private Social Network
+- id: net
+  name: .NET
+- id: disqus-alternative
+  name: Disqus Alternative
+- id: python
+  name: Python
+- id: link-aggregator
+  name: Link Aggregator
+- id: reddit-alternative
+  name: Reddit Alternative
+- id: decision-making
+  name: Decision Making
+- id: collaboration
+  name: Collaboration
+- id: microblogging
+  name: Microblogging
+- id: nodejs
+  name: Node.js
+- id: xmpp
+  name: XMPP
+- id: group-chat
+  name: Group Chat
+- id: photo-sharing
+  name: Photo Sharing
+- id: instagram-alternative
+  name: Instagram Alternative
+- id: elixir
+  name: Elixir
+- id: knowledge-sharing
+  name: Knowledge Sharing
+- id: front-end
+  name: Front End
+- id: java
+  name: Java
+- id: discussion
+  name: Discussion
+- id: scala
+  name: Scala

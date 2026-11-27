@@ -1,12 +1,39 @@
 - id: community-platforms
-  name: "Community Platforms"
+  name: Community Platforms
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4
+    4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0
+    0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
 - id: forum-software
-  name: "Forum Software"
+  name: Forum Software
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4
+    4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0
+    0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
 - id: open-source-and-self-hosted
-  name: "Open-Source & Self-Hosted"
+  name: Open-Source & Self-Hosted
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline
+    points="8 6 2 12 8 18"/></svg>
 - id: course-community
-  name: "Course + Community"
+  name: Course + Community
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0
+    0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
 - id: discord-and-slack-community-tools
-  name: "Discord & Slack Community Tools"
+  name: Discord & Slack Community Tools
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4
+    4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0
+    0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
 - id: community-analytics
-  name: "Community Analytics"
+  name: Community Analytics
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M3 3v16a2 2 0 0 0 2 2h16"/><path d="M7
+    16h2"/><path d="M11 12h2"/><path d="M15 8h2"/></svg>

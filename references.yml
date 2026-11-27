@@ -1,14 +1,84 @@
-- url: "https://www.softwaresuggest.com/community-management-software"
-  title: "SoftwareSuggest — Community Management software"
-- url: "https://www.softwaresuggest.com/online-community-software"
-  title: "SoftwareSuggest — Online Community Management Software"
-- url: "https://openalternative.co/categories/content-publishing/community-platforms"
-  title: "OpenAlternative — Community Platforms"
-- url: "https://www.opensourcealternative.to/category/community"
-  title: "OpenSourceAlternative.to — Community"
-- url: "https://awesome-selfhosted.net/tags/communication---social-networks-and-forums.html"
-  title: "awesome-selfhosted — Communication - Social Networks and Forums"
-- url: "https://en.wikipedia.org/wiki/Comparison_of_Internet_forum_software"
-  title: "Wikipedia — Comparison of internet forum software"
-- url: "https://github.com/topics/forum"
-  title: "GitHub topic — `forum` (2,492 repos)"
+- url: https://awesome-selfhosted.net/tags/communication---social-networks-and-forums.html
+  normalized_url: https://awesome-selfhosted.net/tags/communication---social-networks-and-forums.html
+  first_seen_at: 2026-11-27T00:27:47.286Z
+  last_attempted_at: 2026-11-27T00:27:47.286Z
+  last_success_at: 2026-11-27T00:27:47.286Z
+  status: success
+  items_created: 29
+  pipeline: agent-pipeline
+- url: https://circle.so
+  normalized_url: https://circle.so/
+  first_seen_at: 2026-11-27T00:21:14.044Z
+  last_attempted_at: 2026-11-27T00:21:14.044Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://circle.so"
+- url: https://circle.so/platform
+  normalized_url: https://circle.so/platform
+  first_seen_at: 2026-11-27T00:21:24.540Z
+  last_attempted_at: 2026-11-27T00:21:24.540Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://circle.so/platform"
+- url: https://en.wikipedia.org/wiki/Comparison_of_Internet_forum_software
+  normalized_url: https://en.wikipedia.org/wiki/Comparison_of_Internet_forum_software
+  first_seen_at: 2026-11-27T00:31:10.578Z
+  last_attempted_at: 2026-11-27T00:31:10.578Z
+  last_success_at: 2026-11-27T00:31:10.578Z
+  status: success
+  items_created: 13
+  pipeline: agent-pipeline
+- url: https://github.com/topics/forum
+  title: GitHub topic — `forum` (2,492 repos)
+  normalized_url: https://github.com/topics/forum
+- url: https://openalternative.co/categories/content-publishing/community-platforms
+  normalized_url: https://openalternative.co/categories/content-publishing/community-platforms
+  first_seen_at: 2026-11-27T00:25:20.848Z
+  last_attempted_at: 2026-11-27T00:25:20.848Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://openalternative.co/categories/content-publishing/community-platform\
+    s"
+- url: https://www.discourse.org
+  normalized_url: https://www.discourse.org/
+  first_seen_at: 2026-11-27T00:21:44.476Z
+  last_attempted_at: 2026-11-27T00:21:44.476Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.discourse.org"
+- url: https://www.discourse.org/about
+  normalized_url: https://www.discourse.org/about
+  first_seen_at: 2026-11-27T00:21:55.322Z
+  last_attempted_at: 2026-11-27T00:21:55.322Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.discourse.org/about"
+- url: https://www.mightynetworks.com
+  normalized_url: https://www.mightynetworks.com/
+  first_seen_at: 2026-11-27T00:22:14.226Z
+  last_attempted_at: 2026-11-27T00:22:14.226Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.mightynetworks.com"
+- url: https://www.opensourcealternative.to/category/community
+  title: OpenSourceAlternative.to — Community
+  normalized_url: https://www.opensourcealternative.to/category/community
+- url: https://www.softwaresuggest.com/community-management-software
+  title: SoftwareSuggest — Community Management software
+  normalized_url: https://www.softwaresuggest.com/community-management-software
+- url: https://www.softwaresuggest.com/online-community-software
+  title: SoftwareSuggest — Online Community Management Software
+  normalized_url: https://www.softwaresuggest.com/online-community-software
